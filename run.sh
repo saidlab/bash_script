@@ -1,1 +1,3 @@
-echo "oi"
+test() {
+  echo 'oi'
+}

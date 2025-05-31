@@ -1,3 +1,3 @@
 test() {
-  echo 'oi'
+  echo $1
 }
